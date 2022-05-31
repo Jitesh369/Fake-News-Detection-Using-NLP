@@ -2,10 +2,15 @@
 Implemented the classifier using Natural Language Processing. Trained model can classify the news with an accuracy of 96%.
 
 # Technologies Used
+
 Language: Python
+
 Toolkit: Natural Language Processing
+
 Platform: Anaconda Jupyter Notebook, Pycharm
+
 Libraries: Nltk, Matplotlib, Scikit learn, Pickle
+
 Classification Algorithms: Naïve Bayes Classifier, Passive Aggressive Classifier
 
 # Functionality
